@@ -61,5 +61,25 @@ Diagrama de componentes:
 ![image](https://github.com/user-attachments/assets/8d2074db-b150-432a-87af-b6d8984e4bc2)
 
 
-## 
+2.Creacion del proyecto e implementacion de metodos:
+
+Estructura del proyecto:
+
+![image](https://github.com/user-attachments/assets/b88c3278-2e82-4d1b-92b7-feed630e11a2)
+
+Pruebas unitarias - Cobertura:
+
+![image](https://github.com/user-attachments/assets/e25b0257-2d9a-471a-96c1-cbaa1945cbc4)
+
+### Generacion del front
+
+Hacemos uso de react y ejecutando
+
+npx create-react-app payment-app
+
+Una vez creado el proyecto creamos los componentes de registrar y consultar un pago y los añadimos a App.js
+
+
+Para desplegar la app vamos al siguiente link el cual es el despliegue en azure: 
+ecicreditjeisson-dsggbecbc9bahac0.canadacentral-01.azurewebsites.net
 
