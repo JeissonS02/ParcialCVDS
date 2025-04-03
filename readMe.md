@@ -51,6 +51,9 @@ public class Pago {
 
 Diagrama de componentes:
 
+![image](https://github.com/user-attachments/assets/8d2074db-b150-432a-87af-b6d8984e4bc2)
+
+
 
 ![image](https://github.com/user-attachments/assets/e407b4db-c472-41ec-893a-27f0ac3eb35e)
 
