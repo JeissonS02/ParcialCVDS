@@ -8,6 +8,7 @@
 
 Diagrama de clases:
 
+![image](https://github.com/user-attachments/assets/7ed457b1-b952-4e47-8b09-bbed28fd0f0b)
 
 
 En este caso tenemos las clases Usuario, Pago y Articulo
